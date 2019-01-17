@@ -1,0 +1,1 @@
+STILL, SEARCH, RETURN, END = range(4)
