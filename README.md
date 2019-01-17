@@ -1,5 +1,5 @@
 # Halite
-A repository with code for my bots from the [Halite](https://halite.io) programming competition by Two Sigma.
+A repository with code for my bots from the [Halite](https://halite.io) programming challenge by Two Sigma.
 
 ## Profiles
 * [Halite I (2016)](https://2016.halite.io/user.html?userID=4845)
